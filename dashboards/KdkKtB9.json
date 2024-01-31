@@ -1,0 +1,30 @@
+{
+  "pages": [
+    {
+      "id": "v94wG56",
+      "grid": {
+        "tiles": []
+      },
+      "showTitle": false,
+      "enableCrossFilters": true
+    }
+  ],
+  "owner": "benjamin_seeber@epam.com",
+  "listed": true,
+  "name": "test\u0027s default dashboard",
+  "showGrid": true,
+  "reloadWhenEventReceived": false,
+  "creationTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "benjamin_seeber@epam.com"
+    },
+    "lastModifiedOn": 1706737651392,
+    "extendedProperties": {}
+  },
+  "tags": [],
+  "customFields": {},
+  "checklists": {
+    "checklists": []
+  }
+}
